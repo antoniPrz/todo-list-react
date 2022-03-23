@@ -6,7 +6,7 @@ to do
 [x] Crear tarea
 [x] Listar tareas 
 [x] mostrar lista de tareas 
-[] eliminar tareas 
-[] mostrar lista actualizada de tareas 
+[x] eliminar tareas 
+[x] mostrar lista actualizada de tareas 
 [] Estilizar los componentes
 [] refactor
